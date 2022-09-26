@@ -17,6 +17,7 @@ def calculate():
     if operation == '+':
         print('{} + {} = '.format(number_1, number_2))
         print(number_1 + number_2)
+        print(number_1 + number_2)
 
     elif operation == '-':
         print('{} - {} = '.format(number_1, number_2))
